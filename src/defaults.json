@@ -1,0 +1,8 @@
+{
+  "endpoint": "https://164899ed33dd4c729c1299b5d5f4c6cd.us-east-1.aws.found.io:9243/softtek/_doc",
+  "hidden": true,
+  "noCors": false,
+  "postEnd": false,
+  "flatten": true,
+  "noCred": false
+}
