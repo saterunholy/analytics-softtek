@@ -1,5 +1,5 @@
 {
-  "endpoint": "https://164899ed33dd4c729c1299b5d5f4c6cd.us-east-1.aws.found.io:9243/softtek/_doc",
+  "endpoint": "http://138.91.125.122:9200/",
   "hidden": true,
   "noCors": false,
   "postEnd": false,

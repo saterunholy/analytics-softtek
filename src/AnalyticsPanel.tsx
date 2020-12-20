@@ -70,7 +70,7 @@ export class AnalyticsPanel extends PureComponent<Props> {
       mode: noCors ? 'no-cors' : 'cors',
       headers: {
         'www-authenticate': 'Basic realm="security" charset="UTF-8"',
-        Authorization: 'Basic ZWxhc3RpYzpCMU1JMUhaUlhhaWJ1VWl3ODY2ZE9haGY=',
+        Authorization: 'Basic ZWxhc3RpYzowSzJaVGhnQm1aaU1ldnR3d3h2bw==',
         accept: 'application/json,text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'content-type': 'application/json',
       },
